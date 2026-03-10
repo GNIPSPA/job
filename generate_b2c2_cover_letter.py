@@ -44,42 +44,40 @@ pdf.ln(4)
 
 # --- Body Paragraphs ---
 # Paragraph 1: Introduction
-p1 = ("I am writing to express my strong interest in the Junior Project Manager (Summer Internship) "
-      "role at B2C2. As an MSc Financial Technology student at UCL with a deep fascination for crypto "
-      "market infrastructure, I have closely followed B2C2’s evolution into a global leader for institutional "
-      "liquidity. I am eager to contribute my strong organisational skills, analytical mindset, and ability "
-      "to bridge the gap between complex financial concepts and operational delivery.")
+p1 = ("I am writing to apply for the Junior Project Manager (Summer Internship) at B2C2. I'm currently "
+      "studying for an MSc in Financial Technology at UCL and have been following how B2C2 has grown into "
+      "a major liquidity provider in the digital asset space. I really enjoy breaking down complex financial "
+      "concepts so that different teams can understand them, and I'd love to bring my organisational and "
+      "analytical skills to your Product & Delivery team.")
 
 pdf.multi_cell(w, 5.5, p1)
 pdf.ln(4)
 
 # Paragraph 2: Project Management / Organization
-p2 = ("While my background includes financial modeling and analysis, my true strength lies in structuring work, "
-      "facilitating collaboration, and translating complex requirements into actionable roadmaps. During my internships "
-      "at Discover Management and SCB Asset Management, I frequently acted as a bridge between analytical workflows "
-      "and senior management output. I learned how to track project dependencies, coordinate across teams to ensure "
-      "deadlines were met, and maintain rigorous documentation for internal review processes. These experiences taught "
-      "me that successful execution requires not just technical understanding, but meticulous organization, clear "
-      "communication, and relentless follow-through.")
+p2 = ("Even though my background involves a lot of financial modeling, I've realized my favorite part of the "
+      "job is actually organizing the work itself. During my internships at Discover Management and SCB Asset "
+      "Management, I spent a lot of time connecting the dots between our analytical teams and senior management. "
+      "I was responsible for tracking project updates, keeping different teams on the same page, and making sure "
+      "all our documentation was accurate for internal reviews. This taught me that having a good technical "
+      "understanding isn't enough—you also need to be highly organized and communicate clearly to get things done.")
 
 pdf.multi_cell(w, 5.5, p2)
 pdf.ln(4)
 
 # Paragraph 3: Crypto / Tech Bridge
-p3 = ("In addition to my traditional finance experience, I bring hands-on knowledge of blockchain ecosystems. Having "
-      "executed thousands of on-chain transactions and studied DeFi market structure natively, I am uniquely positioned "
-      "to understand the technical requirements and workflows specific to a digital assets liquidity provider like B2C2. "
-      "I am highly comfortable navigating technical discussions and translating them into clear acceptance criteria, "
-      "making me well-suited to support the product implementation and troubleshooting processes between Tech and Ops teams.")
+p3 = ("Outside of my traditional finance internships, I've spent the last few years getting hands-on experience "
+      "in the crypto space. I've personally executed thousands of on-chain transactions and spent a lot of time "
+      "looking at how DeFi markets are structured. Because I'm so familiar with how these protocols actually work, "
+      "I feel confident sitting in on technical discussions and helping translate those details into clear workflows. "
+      "I'd be very comfortable helping to bridge the gap between Tech and Ops during product implementations.")
 
 pdf.multi_cell(w, 5.5, p3)
 pdf.ln(4)
 
 # Paragraph 4: Conclusion
-p4 = ("A fast-paced, high-pressure environment like B2C2 is exactly where I thrive. I am genuinely eager to learn "
-      "project methodologies like Agile and Scrum from experienced professionals, and I am highly motivated to ensure "
-      "smooth delivery on cross-departmental initiatives. I would welcome the opportunity to bring my proactive mindset "
-      "and passion for problem-solving to your Product & Delivery team.")
+p4 = ("I'm really looking for an environment like B2C2 where things move quickly. A big goal of mine for this summer "
+      "is to learn formal project methodologies like Agile and Scrum from people who have done it before in top financial "
+      "institutions. I'd love the chance to join the team and help keep your cross-departmental projects running smoothly.")
 
 pdf.multi_cell(w, 5.5, p4)
 pdf.ln(4)
